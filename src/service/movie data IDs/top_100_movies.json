@@ -1,0 +1,502 @@
+[
+    {
+        "tconst": "tt0111161",
+        "averageRating": 9.3,
+        "numVotes": 2860164
+    },
+    {
+        "tconst": "tt0468569",
+        "averageRating": 9.0,
+        "numVotes": 2841378
+    },
+    {
+        "tconst": "tt1375666",
+        "averageRating": 8.8,
+        "numVotes": 2522943
+    },
+    {
+        "tconst": "tt0137523",
+        "averageRating": 8.8,
+        "numVotes": 2295383
+    },
+    {
+        "tconst": "tt0944947",
+        "averageRating": 9.2,
+        "numVotes": 2258421
+    },
+    {
+        "tconst": "tt0109830",
+        "averageRating": 8.8,
+        "numVotes": 2232453
+    },
+    {
+        "tconst": "tt0110912",
+        "averageRating": 8.9,
+        "numVotes": 2196286
+    },
+    {
+        "tconst": "tt0903747",
+        "averageRating": 9.5,
+        "numVotes": 2105635
+    },
+    {
+        "tconst": "tt0816692",
+        "averageRating": 8.7,
+        "numVotes": 2061116
+    },
+    {
+        "tconst": "tt0133093",
+        "averageRating": 8.7,
+        "numVotes": 2032164
+    },
+    {
+        "tconst": "tt0068646",
+        "averageRating": 9.2,
+        "numVotes": 1992440
+    },
+    {
+        "tconst": "tt0120737",
+        "averageRating": 8.9,
+        "numVotes": 1986791
+    },
+    {
+        "tconst": "tt0167260",
+        "averageRating": 9.0,
+        "numVotes": 1959049
+    },
+    {
+        "tconst": "tt1345836",
+        "averageRating": 8.4,
+        "numVotes": 1810240
+    },
+    {
+        "tconst": "tt0114369",
+        "averageRating": 8.6,
+        "numVotes": 1778755
+    },
+    {
+        "tconst": "tt0167261",
+        "averageRating": 8.8,
+        "numVotes": 1766121
+    },
+    {
+        "tconst": "tt1853728",
+        "averageRating": 8.5,
+        "numVotes": 1675439
+    },
+    {
+        "tconst": "tt0172495",
+        "averageRating": 8.5,
+        "numVotes": 1603126
+    },
+    {
+        "tconst": "tt0361748",
+        "averageRating": 8.4,
+        "numVotes": 1565681
+    },
+    {
+        "tconst": "tt0372784",
+        "averageRating": 8.2,
+        "numVotes": 1563976
+    },
+    {
+        "tconst": "tt0993846",
+        "averageRating": 8.2,
+        "numVotes": 1561686
+    },
+    {
+        "tconst": "tt0102926",
+        "averageRating": 8.6,
+        "numVotes": 1532764
+    },
+    {
+        "tconst": "tt0120815",
+        "averageRating": 8.6,
+        "numVotes": 1482831
+    },
+    {
+        "tconst": "tt7286456",
+        "averageRating": 8.4,
+        "numVotes": 1459307
+    },
+    {
+        "tconst": "tt0848228",
+        "averageRating": 8.0,
+        "numVotes": 1450977
+    },
+    {
+        "tconst": "tt0076759",
+        "averageRating": 8.6,
+        "numVotes": 1438238
+    },
+    {
+        "tconst": "tt1130884",
+        "averageRating": 8.2,
+        "numVotes": 1437280
+    },
+    {
+        "tconst": "tt0108052",
+        "averageRating": 9.0,
+        "numVotes": 1436704
+    },
+    {
+        "tconst": "tt0482571",
+        "averageRating": 8.5,
+        "numVotes": 1426754
+    },
+    {
+        "tconst": "tt0407887",
+        "averageRating": 8.5,
+        "numVotes": 1409745
+    },
+    {
+        "tconst": "tt0120689",
+        "averageRating": 8.6,
+        "numVotes": 1393245
+    },
+    {
+        "tconst": "tt0499549",
+        "averageRating": 7.9,
+        "numVotes": 1376444
+    },
+    {
+        "tconst": "tt0080684",
+        "averageRating": 8.7,
+        "numVotes": 1367724
+    },
+    {
+        "tconst": "tt0071562",
+        "averageRating": 9.0,
+        "numVotes": 1351968
+    },
+    {
+        "tconst": "tt4574334",
+        "averageRating": 8.7,
+        "numVotes": 1317563
+    },
+    {
+        "tconst": "tt0209144",
+        "averageRating": 8.4,
+        "numVotes": 1311450
+    },
+    {
+        "tconst": "tt0088763",
+        "averageRating": 8.5,
+        "numVotes": 1293793
+    },
+    {
+        "tconst": "tt0120338",
+        "averageRating": 7.9,
+        "numVotes": 1269368
+    },
+    {
+        "tconst": "tt2015381",
+        "averageRating": 8.0,
+        "numVotes": 1263691
+    },
+    {
+        "tconst": "tt4154796",
+        "averageRating": 8.4,
+        "numVotes": 1249202
+    },
+    {
+        "tconst": "tt0099685",
+        "averageRating": 8.7,
+        "numVotes": 1244367
+    },
+    {
+        "tconst": "tt0110413",
+        "averageRating": 8.5,
+        "numVotes": 1234491
+    },
+    {
+        "tconst": "tt0169547",
+        "averageRating": 8.3,
+        "numVotes": 1203344
+    },
+    {
+        "tconst": "tt0325980",
+        "averageRating": 8.1,
+        "numVotes": 1199060
+    },
+    {
+        "tconst": "tt0910970",
+        "averageRating": 8.4,
+        "numVotes": 1189171
+    },
+    {
+        "tconst": "tt4154756",
+        "averageRating": 8.4,
+        "numVotes": 1187228
+    },
+    {
+        "tconst": "tt0266697",
+        "averageRating": 8.2,
+        "numVotes": 1181545
+    },
+    {
+        "tconst": "tt0120382",
+        "averageRating": 8.2,
+        "numVotes": 1181061
+    },
+    {
+        "tconst": "tt0120586",
+        "averageRating": 8.5,
+        "numVotes": 1178014
+    },
+    {
+        "tconst": "tt0434409",
+        "averageRating": 8.2,
+        "numVotes": 1172179
+    },
+    {
+        "tconst": "tt0103064",
+        "averageRating": 8.6,
+        "numVotes": 1164249
+    },
+    {
+        "tconst": "tt0114814",
+        "averageRating": 8.5,
+        "numVotes": 1137386
+    },
+    {
+        "tconst": "tt0110357",
+        "averageRating": 8.5,
+        "numVotes": 1131180
+    },
+    {
+        "tconst": "tt0371746",
+        "averageRating": 7.9,
+        "numVotes": 1116052
+    },
+    {
+        "tconst": "tt1049413",
+        "averageRating": 8.3,
+        "numVotes": 1113893
+    },
+    {
+        "tconst": "tt1431045",
+        "averageRating": 8.0,
+        "numVotes": 1112676
+    },
+    {
+        "tconst": "tt0086190",
+        "averageRating": 8.3,
+        "numVotes": 1112228
+    },
+    {
+        "tconst": "tt0266543",
+        "averageRating": 8.2,
+        "numVotes": 1104032
+    },
+    {
+        "tconst": "tt0081505",
+        "averageRating": 8.4,
+        "numVotes": 1096071
+    },
+    {
+        "tconst": "tt0112573",
+        "averageRating": 8.3,
+        "numVotes": 1084448
+    },
+    {
+        "tconst": "tt0264464",
+        "averageRating": 8.1,
+        "numVotes": 1081226
+    },
+    {
+        "tconst": "tt0105236",
+        "averageRating": 8.3,
+        "numVotes": 1079406
+    },
+    {
+        "tconst": "tt0108778",
+        "averageRating": 8.9,
+        "numVotes": 1077023
+    },
+    {
+        "tconst": "tt1392190",
+        "averageRating": 8.1,
+        "numVotes": 1073963
+    },
+    {
+        "tconst": "tt1520211",
+        "averageRating": 8.1,
+        "numVotes": 1070060
+    },
+    {
+        "tconst": "tt0338013",
+        "averageRating": 8.3,
+        "numVotes": 1067807
+    },
+    {
+        "tconst": "tt0073486",
+        "averageRating": 8.7,
+        "numVotes": 1063896
+    },
+    {
+        "tconst": "tt0114709",
+        "averageRating": 8.3,
+        "numVotes": 1059235
+    },
+    {
+        "tconst": "tt0107290",
+        "averageRating": 8.2,
+        "numVotes": 1056911
+    },
+    {
+        "tconst": "tt2267998",
+        "averageRating": 8.1,
+        "numVotes": 1056669
+    },
+    {
+        "tconst": "tt0119217",
+        "averageRating": 8.3,
+        "numVotes": 1053550
+    },
+    {
+        "tconst": "tt0477348",
+        "averageRating": 8.2,
+        "numVotes": 1047591
+    },
+    {
+        "tconst": "tt0167404",
+        "averageRating": 8.2,
+        "numVotes": 1043181
+    },
+    {
+        "tconst": "tt0082971",
+        "averageRating": 8.4,
+        "numVotes": 1030178
+    },
+    {
+        "tconst": "tt1392170",
+        "averageRating": 7.2,
+        "numVotes": 995627
+    },
+    {
+        "tconst": "tt1475582",
+        "averageRating": 9.1,
+        "numVotes": 988035
+    },
+    {
+        "tconst": "tt0268978",
+        "averageRating": 8.2,
+        "numVotes": 979625
+    },
+    {
+        "tconst": "tt2582802",
+        "averageRating": 8.5,
+        "numVotes": 972017
+    },
+    {
+        "tconst": "tt0198781",
+        "averageRating": 8.1,
+        "numVotes": 969966
+    },
+    {
+        "tconst": "tt2488496",
+        "averageRating": 7.8,
+        "numVotes": 968500
+    },
+    {
+        "tconst": "tt0078748",
+        "averageRating": 8.5,
+        "numVotes": 940856
+    },
+    {
+        "tconst": "tt1201607",
+        "averageRating": 8.1,
+        "numVotes": 939439
+    },
+    {
+        "tconst": "tt0095016",
+        "averageRating": 8.2,
+        "numVotes": 938553
+    },
+    {
+        "tconst": "tt6751668",
+        "averageRating": 8.5,
+        "numVotes": 937371
+    },
+    {
+        "tconst": "tt1675434",
+        "averageRating": 8.5,
+        "numVotes": 919415
+    },
+    {
+        "tconst": "tt0088247",
+        "averageRating": 8.1,
+        "numVotes": 916638
+    },
+    {
+        "tconst": "tt2395427",
+        "averageRating": 7.3,
+        "numVotes": 914625
+    },
+    {
+        "tconst": "tt3659388",
+        "averageRating": 8.0,
+        "numVotes": 913904
+    },
+    {
+        "tconst": "tt0075314",
+        "averageRating": 8.2,
+        "numVotes": 910645
+    },
+    {
+        "tconst": "tt0086250",
+        "averageRating": 8.3,
+        "numVotes": 907174
+    },
+    {
+        "tconst": "tt0208092",
+        "averageRating": 8.2,
+        "numVotes": 902323
+    },
+    {
+        "tconst": "tt0253474",
+        "averageRating": 8.5,
+        "numVotes": 902100
+    },
+    {
+        "tconst": "tt0800369",
+        "averageRating": 7.0,
+        "numVotes": 894145
+    },
+    {
+        "tconst": "tt1300854",
+        "averageRating": 7.1,
+        "numVotes": 893267
+    },
+    {
+        "tconst": "tt1843866",
+        "averageRating": 7.7,
+        "numVotes": 893024
+    },
+    {
+        "tconst": "tt0180093",
+        "averageRating": 8.3,
+        "numVotes": 891776
+    },
+    {
+        "tconst": "tt0458339",
+        "averageRating": 6.9,
+        "numVotes": 890623
+    },
+    {
+        "tconst": "tt0435761",
+        "averageRating": 8.3,
+        "numVotes": 885758
+    },
+    {
+        "tconst": "tt2278388",
+        "averageRating": 8.1,
+        "numVotes": 878382
+    },
+    {
+        "tconst": "tt0066921",
+        "averageRating": 8.3,
+        "numVotes": 874949
+    }
+]

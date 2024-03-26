@@ -1,0 +1,66 @@
+.endscript_body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* top right bottom left */
+    margin: 5% 8% 0% 8%;
+    padding-bottom: 50px;
+}
+
+.endscript_icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 22%;
+}
+.endscript_icon {
+    color: aliceblue;
+}
+
+.endscript_texts_lind_1 {
+    margin-top: 2.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+    flex-wrap: wrap;
+}
+.endscript_text_lind_in {
+    color: aliceblue;
+}
+
+.endscript_texts_lind_2 {
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 65%;
+    flex-wrap: wrap;
+}
+
+
+
+
+/* เงื่อนไขสำหรับขนาดหน้าจอที่มีความกว้างไม่เกิน 600px */
+@media (max-width: 1200px) {
+    .endscript_body {
+        /* top right bottom left */
+        margin: 5% 4% 0% 4%;
+        padding-bottom: 50px;
+    }
+    .endscript_icons {
+        width: 30%;
+    }
+}
+/* เงื่อนไขสำหรับขนาดหน้าจอที่มีความกว้างไม่เกิน 600px */
+@media (max-width: 600px) {
+    .endscript_body {
+        /* top right bottom left */
+        margin: 5% 2% 0% 2%;
+        padding-bottom: 50px;
+    }
+    .endscript_icons {
+        width: 50%;
+    }
+}

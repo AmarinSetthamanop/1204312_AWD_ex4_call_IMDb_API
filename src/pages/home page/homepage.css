@@ -1,0 +1,156 @@
+.HomePageBody {
+    display: flex;
+    flex-direction: column;
+}
+.h1 {
+    white-space: nowrap; /* ป้องกันข้อความไม่ขึ้นบรรทัดใหม่ */
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+
+
+.movie_cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.movie_card {
+    width: 190px;
+    height: 100%; /* กำหนดความสูงสำหรับให้ Card ขยายตามข้อมูลภายใน */
+    margin-bottom: 20px;
+}
+.card_content {
+    flex: 1; /* ทำให้ CardContent ขยายตามพื้นที่ที่เหลือใน Card */
+    /* background-color: rgb(99, 105, 88); */
+    /* padding: top-right-bottom-left */
+    padding: 0px 0px 10px 10px;
+}
+.movie_rating {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%
+}
+.btn_card_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 50px;
+    margin-left: 5%;
+    color: rgb(114, 182, 255);
+    /* color: rgba(55, 55, 55); */
+}
+
+
+
+/* .link_text_name_of_movie { ใช้กับ tage Link
+    color: aliceblue;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;  ถ้าข้อความใส <Link> ยาวกว่า 1 บรรทัด ให้แสดง ... ต่อท้าย 
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+} */
+.link_text_name_of_movie {
+    white-space: nowrap; /* ป้องกันข้อความไม่ขึ้นบรรทัดใหม่ */
+    overflow: hidden; /* ซ่อนข้อความที่เกินขอบเขตของปุ่ม */
+    text-overflow: ellipsis; /* ใส่เครื่องหมาย ... เมื่อข้อความเกินขอบเขต */
+    padding: 0 0 0 0;
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.link_text_name_of_movie_in {
+    display: block;
+    max-width: 100%;
+    overflow: hidden; /* ซ่อนข้อความที่เกินขอบเขตของปุ่ม */
+    text-overflow: ellipsis; /* ใส่เครื่องหมาย ... เมื่อข้อความเกินขอบเขต */
+}
+
+
+
+.card_actions {
+    /* background-color: rgb(109, 92, 92); */
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    margin-top: auto; /* ให้ CardActions อยู่ด้านล่างสุด */
+}
+.button_watchlist {
+    background-color: rgba(72, 72, 72, 0.5); /* กำหนดสีพื้นหลังโปร่งใสโดยใช้ rgba */
+    color: rgb(114, 182, 255);
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+.btn_trailer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn_trailer_in {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 50%;
+}
+
+.home_loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.search_movies_by_name_num_of_pages {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+
+@media (max-width: 1200px) {
+    .movie_cards {
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    .search_movies_by_name_num_of_pages {
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+}
+/* เงื่อนไขสำหรับขนาดหน้าจอที่มีความกว้างไม่เกิน 600px */
+@media (max-width: 600px) {
+    .h1 {
+      font-size: 30px; /* ปรับขนาดตัวอักษรให้เล็กลงอีก */
+    }
+    .movie_cards {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .search_movies_by_name_num_of_pages {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+}
+/* @media (min-width: 600px) {
+    เงื่อนไขสำหรับขนาดหน้าจอที่มีความกว้างอย่างน้อย 600px
+    .body h1 {
+        font-size: 24px; ปรับขนาดตัวอักษรให้เล็กลง
+    }
+} */
+  
