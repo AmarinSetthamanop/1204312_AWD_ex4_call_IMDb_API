@@ -147,7 +147,7 @@ async function searchMoviesByFullName() {
       const fetchData = async () => {
         try {
           // เรียก api
-          const moviesData = await serviceApi.get_100_Movies();
+          const moviesData = await serviceApi.get_100_Movies() as MoviesModel[];
           setMovies(moviesData);
         } catch (error) {
           console.error("Error fetching movies:", error);
